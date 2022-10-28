@@ -41,4 +41,9 @@ My goal is to work and live abroad and know new cultures and countries. :earth_a
 </div>
 
 ##
+  
+![Snake animation](https://github.com/bruno-g-pellis/bruno-g-pellis/blob/output/github-contribution-grid-snake.svg)
+  
+  
+  
 
